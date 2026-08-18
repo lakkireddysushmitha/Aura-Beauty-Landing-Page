@@ -2,7 +2,7 @@
 
 A modern and elegant beauty & cosmetics UI/UX design created in Figma.
 
-![Aura Beauty Landing Page](landing-page.png)
+![Aura Beauty Landing Page](landing%20page.png)
 
 ##  About the Project
 
